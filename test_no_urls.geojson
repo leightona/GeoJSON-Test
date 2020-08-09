@@ -12,11 +12,7 @@
             "type": "Feature",
             "properties": {
                 "description": "Description goes here",
-                "marker-symbol": "rail-metro",
                 "title": "Access Point",
-                "lines": [
-                    "Green"
-                ],
                 "address": "Address goes here"
             }
         },
@@ -31,11 +27,7 @@
             "type": "Feature",
             "properties": {
                 "description": "Description goes here",
-                "marker-symbol": "rail-metro",
                 "title": "Access Point",
-                "lines": [
-                    "Green"
-                ],
                 "address": "Address goes here"
             }
         }
