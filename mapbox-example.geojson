@@ -1,25 +1,36 @@
 {
-  type: "FeatureCollection",
-  "features": [{
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-77.032, 38.913]
-    },
-    "properties": {
-      "title": "Mapbox",
-      "description": "Washington, D.C."
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-122.414, 37.776]
-    },
-    "properties": {
-      "title": "Mapbox",
-      "description": "San Francisco, California"
-    }
-  }]
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.032,
+                    38.913
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "description": "Description goes here",
+                "title": "Access Point",
+                "address": "Address goes here"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.414,
+                    37.776
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "description": "Description goes here",
+                "title": "Access Point",
+                "address": "Address goes here"
+            }
+        }
+    ]
 }
+
