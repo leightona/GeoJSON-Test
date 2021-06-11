@@ -5,7 +5,7 @@
       "type": "Feature",
       "properties": {},
       "geometry": {
-        "type": "LineString",
+        "type": "Polygon",
         "coordinates": [
           [
             174.078369140625,
