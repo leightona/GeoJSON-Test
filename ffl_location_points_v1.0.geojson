@@ -80,20 +80,6 @@
           -38.06025645956686
         ]
       }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Test Point",
-        "country": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          146.13189697265625,
-          -37.27623836494295
-        ]
-      }
     }
   ]
 }
